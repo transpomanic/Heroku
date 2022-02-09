@@ -1,0 +1,22 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "This is built for express buildpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transpomanic/Heroku.git"
+  },
+  "author": "Phani Tummala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/transpomanic/Heroku/issues"
+  },
+  "homepage": "https://github.com/transpomanic/Heroku#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
